@@ -9,21 +9,9 @@ A responsive multi-page student portfolio and academic management website built 
 - `planner.html` — add, complete and delete tasks; tasks persist in browser local storage
 - `contact.html` — required contact form with JavaScript validation
 
-## Run locally
-1. Unzip the project.
-2. Open the `COS106-Student-Portfolio` folder in VS Code.
-3. Open `index.html` in a browser. Recommended: install the **Live Server** extension in VS Code, right-click `index.html`, then choose **Open with Live Server**.
-4. Check the site at desktop width and at a narrow mobile width.
 
-No build tools or npm packages are required. Google Fonts is optional; if offline, the site falls back to system fonts.
 
-## Before submitting
-- Replace the generic GitHub links with your own profile/repository links.
-- Complete the planned project work and replace sample descriptions with truthful evidence.
-- Add your real contact details only if you want them public.
-- Test every page and form on desktop and mobile.
-- Host the site and submit the live URL plus GitHub repository link, as requested by the assessment.
-- Keep the original assessment PDF separate from the website folder.
+
 
 ## Assessment alignment checklist
 - Homepage: name, portrait, welcome, navigation, biography, professional layout
